@@ -21,6 +21,7 @@
     "@types/node": "^22.10.1",
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.1",
+    "@types/w3c-web-usb": "^1.0.10",
     "@vitejs/plugin-react": "^4.3.4",
     "@vitest/coverage-v8": "2.1.8",
     "eslint": "^9.16.0",
